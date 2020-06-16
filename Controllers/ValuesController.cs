@@ -12,7 +12,7 @@ namespace AzureCICDPipeline.Controllers
         // GET api/values
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value1" };
+            return new string[] { "value1", "valu" };
         }
 
         // GET api/values/5
